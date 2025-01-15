@@ -7,6 +7,6 @@
 
 ## Current Projects
 
+* Cloud Foundry [[Site]](https://www.cloudfoundry.org/)
 * High Performance Software Foundation [[Site]](https://hpsf.io/)
 * Open Mainframe Project [[Site]](https://openmainframeproject.org/)
-* Tazama [[Site]](https://tazama.org/)
