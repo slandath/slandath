@@ -9,5 +9,5 @@
 
 * Cloud Foundry [[Site]](https://www.cloudfoundry.org/)
 * High Performance Software Foundation [[Site]](https://hpsf.io/)
-* Jupyter Foundation[[Site]](https://jupyterfoundation.org/)
+* Jupyter Foundation [[Site]](https://jupyterfoundation.org/)
 * Open Mainframe Project [[Site]](https://openmainframeproject.org/)
